@@ -15,7 +15,7 @@ OncoML is an AI/ML framework for robust cancer drug response prediction based on
 
 ``git clone https://github.com/OncoML``
 
-CaDRReS-Sc is based on Python 3.x
+Need after Python 3.11
 
 **Required packages**
 
